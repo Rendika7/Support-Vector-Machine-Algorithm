@@ -1,0 +1,13 @@
+https://ankitnitjsr13.medium.com/math-behind-svm-support-vector-machine-864e58977fdb
+https://www.codingninjas.com/studio/library/linear-vs-non-linear-classification
+https://www.analyticsvidhya.com/blog/2021/06/support-vector-machine-better-understanding/
+https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
+
+
+https://scikit-learn.org/stable/modules/model_evaluation.html#receiver-operating-characteristic-roc
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html#sphx-glr-auto-examples-model-selection-plot-confusion-matrix-py
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_multi_metric_evaluation.html#sphx-glr-auto-examples-model-selection-plot-multi-metric-evaluation-py
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_randomized_search.html#sphx-glr-auto-examples-model-selection-plot-randomized-search-py
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_grid_search_refit_callable.html#sphx-glr-auto-examples-model-selection-plot-grid-search-refit-callable-py
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_underfitting_overfitting.html#sphx-glr-auto-examples-model-selection-plot-underfitting-overfitting-py
+https://scikit-learn.org/stable/modules/svm.html#svm
