@@ -45,6 +45,6 @@ Feel free to contribute by suggesting ideas, fixing bugs, or adding improvements
 
 References
 ----------
-- [Link to any references or resources used for the SVM implementation]
+- [[Link to any references or resources used for the SVM implementation](https://ankitnitjsr13.medium.com/math-behind-svm-support-vector-machine-864e58977fdb)]
 
 Please use this repository for educational purposes and contributions are always welcome!
