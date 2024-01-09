@@ -1,4 +1,4 @@
-# Support-Vector-Machine Algorithm for Titanic Data Prediction2
+# Support-Vector-Machine Algorithm for Titanic Data Prediction
 This repository is a simple Python implementation of SVM using Sklearn
 
 - [ ] Linear SVM for 2 classes
