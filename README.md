@@ -36,7 +36,7 @@ Repository Structure
 - `svm_titanic.ipynb`: File containing the Python jupyter notebook code for the SVM algorithm.
 - `data/`: Directory to store sample datasets used in examples.
 - `presentation/`: Directory for storing slide presentations and materials used in making them.
-- `references link`: File containing reference links used to help researchers complete this project.
+- `references link.txt`: File containing reference links used to help researchers complete this project.
 
 Contributing
 ------------
