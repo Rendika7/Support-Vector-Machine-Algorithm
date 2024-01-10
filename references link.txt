@@ -15,3 +15,6 @@ https://scikit-learn.org/stable/auto_examples/model_selection/plot_randomized_se
 https://scikit-learn.org/stable/auto_examples/model_selection/plot_grid_search_refit_callable.html#sphx-glr-auto-examples-model-selection-plot-grid-search-refit-callable-py
 https://scikit-learn.org/stable/auto_examples/model_selection/plot_underfitting_overfitting.html#sphx-glr-auto-examples-model-selection-plot-underfitting-overfitting-py
 https://scikit-learn.org/stable/modules/svm.html#svm
+
+https://www.kaggle.com/code/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy#Step-2:-Gather-the-Data
+https://www.kaggle.com/c/titanic/overview
