@@ -3,13 +3,10 @@ https://www.codingninjas.com/studio/library/linear-vs-non-linear-classification
 https://www.analyticsvidhya.com/blog/2021/06/support-vector-machine-better-understanding/
 https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
 https://medium.com/@samsudiney/penjelasan-sederhana-tentang-apa-itu-svm-149fec72bd02
-
-
+https://www.linkedin.com/pulse/svm-support-vector-machine-concept-anil-mahanty/
+https://slideplayer.info/slide/3672979/
 
 https://youtu.be/_YPScrckx28?si=lN9fTsT0jfYmR3Z-&t=102
-
-
-
 
 https://scikit-learn.org/stable/modules/model_evaluation.html#receiver-operating-characteristic-roc
 https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html#sphx-glr-auto-examples-model-selection-plot-confusion-matrix-py
