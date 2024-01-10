@@ -2,6 +2,13 @@ https://ankitnitjsr13.medium.com/math-behind-svm-support-vector-machine-864e5897
 https://www.codingninjas.com/studio/library/linear-vs-non-linear-classification
 https://www.analyticsvidhya.com/blog/2021/06/support-vector-machine-better-understanding/
 https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
+https://medium.com/@samsudiney/penjelasan-sederhana-tentang-apa-itu-svm-149fec72bd02
+
+
+
+https://youtu.be/_YPScrckx28?si=lN9fTsT0jfYmR3Z-&t=102
+
+
 
 
 https://scikit-learn.org/stable/modules/model_evaluation.html#receiver-operating-characteristic-roc
