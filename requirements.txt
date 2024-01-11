@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 pandas
 matplotlib
 NumPy
 IPython
+=======
+pandas
+matplotlib
+NumPy
+IPython
+>>>>>>> ec67678efc8576d7a019865c4a7322ea8df677aa
 scikit-learn
